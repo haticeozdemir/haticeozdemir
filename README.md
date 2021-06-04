@@ -5,7 +5,7 @@
       src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"
     />
   </a>
-  <a href="https://linkedin.com/haticeozdemir1">
+  <a href="https://linkedin.com/in/haticeozdemir1">
     <img
       src="https://img.shields.io/badge/linkedin-E4405F.svg?style=for-the-badge&logo=linkedin&logoColor=white"
     />
